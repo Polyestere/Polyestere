@@ -11,7 +11,7 @@
 - C/C++
 
 ## 💻 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=prs)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Polyestere=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📈 GitHub Trophies
 ![Your Trophies](https://github-profile-trophy.vercel.app/?username=yourusername)
