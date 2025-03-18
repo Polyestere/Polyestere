@@ -14,7 +14,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Polyestere)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📈 GitHub Trophies
-![Your Trophies](https://github-profile-trophy.vercel.app/?username=yourusername)
+![Your Trophies](https://github-profile-trophy.vercel.app/?username=Polyestere)
 
 ## 🌱 Current Projects
 - 보안 + 인공지능 논문 작성중
