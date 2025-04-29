@@ -17,7 +17,7 @@
     <img src= "https://github-readme-stats.vercel.app/api?username=Polyestere" width="400"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Polyestere&layout=compact" width="400"/>
+    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Polyestere&layout=compact" width="300"/>
   </a>
 </p>
 
