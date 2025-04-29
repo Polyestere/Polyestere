@@ -11,11 +11,15 @@
 - Python
 - C/C++
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Polyestere&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## 💻 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Polyestere)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polyestere&layout=compact" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Polyestere" />
+  </a>
+</p>
 
 ## 📈 GitHub Trophies
 ![Your Trophies](https://github-profile-trophy.vercel.app/?username=Polyestere)
