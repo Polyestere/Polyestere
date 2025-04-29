@@ -5,7 +5,7 @@
 ## 🚀 About Me
 - 현재 한밭대학교 컴퓨터공학과 3학년 재학 중
 - EcoAI Lab에 참여 중 (https://sites.google.com/view/ecoai/introduction)
-
+![My Header Image](https://example.com/myimage.png)
 ## 🔧 Languages
 - Python
 - C/C++
