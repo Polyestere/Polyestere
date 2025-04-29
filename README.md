@@ -6,7 +6,7 @@
 - 현재 한밭대학교 컴퓨터공학과 3학년 재학 중
 - EcoAI Lab에 참여 중 
 
-## 🔧 Technologies & Tools
+## 🔧 Languages
 - Python
 - C/C++
 
