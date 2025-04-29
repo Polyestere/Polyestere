@@ -10,7 +10,7 @@
 - Python
 - C/C++
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Polyestere)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Polyestere&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 💻 GitHub Stats
