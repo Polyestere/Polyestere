@@ -25,7 +25,7 @@
 ![Your Trophies](https://github-profile-trophy.vercel.app/?username=Polyestere)
 
 ## 🌱 Current Projects
-- (주)젠토 기업 인턴
+
 
 ## 🌳 Complete Projects
 - 금속 산업 용도별 전력 데이터 비율 기반 임계값 최적화를 통한 이상치 탐지 논문 작성 (25.1.3 ~ 25.2.7)
@@ -38,6 +38,7 @@
 - 소프트웨어 설계 및 문서작성 텀프로젝트 (25.3.1 ~ 25.6.12)
 - 이상치 탐지 성능 향상을 위한 MI-FGSM 데이터 증강 기법 논문 작성 (25.5.30 ~ 25.6.24)
 - 2025 하계학술대회 참여(전자공학회-포스터발표, 2저자)
+- (주)젠토 기업 인턴 (25.6.30 ~ 25.7.11)
 
 ## Qualifications
 - ADsP (25.6.13)
