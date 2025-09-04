@@ -25,7 +25,9 @@
 ![Your Trophies](https://github-profile-trophy.vercel.app/?username=Polyestere)
 
 ## 🌱 Current Projects
-
+- MI-FGSM + FFT 논문 작성 중
+- AAAI Student Abstract 작성 중 (강화학습)
+- 추계통신학회학술대회 논문 작성 중 (강화학습)
 
 ## 🌳 Complete Projects
 - 금속 산업 용도별 전력 데이터 비율 기반 임계값 최적화를 통한 이상치 탐지 논문 작성 (25.1.3 ~ 25.2.7)
