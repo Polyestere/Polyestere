@@ -41,7 +41,7 @@
 - 이상치 탐지 성능 향상을 위한 MI-FGSM 데이터 증강 기법 논문 작성 (25.5.30 ~ 25.6.24)
 - 2025 하계학술대회 참여(전자공학회-포스터발표, 2저자)
 - (주)젠토 기업 인턴 (25.6.30 ~ 25.7.11)
-
+- SCIE급 학술지(MDPI) A Comparative Study of Customized Algorithms for Anomaly Detection in Industry-Specific Power Data 1저자 게재
 ## Qualifications
 - ADsP (25.6.13)
 - 정보처리기사(준비중)
