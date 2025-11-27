@@ -17,8 +17,8 @@
   
   - 🎓 **국립한밭대학교 컴퓨터공학과** 3학년 재학 중
   - 🔬 **EcoAI Lab** 학부 연구생 (Undergraduate Researcher)
-  - 🧠 **Main Interest**: Anomaly Detection, Reinforcement Learning, Time-Series Analysis
-  - 📧 **Contact**: [이메일 주소 입력 가능]
+  - 🧠 **Main Interest**: Anomaly Detection, Reinforcement Learning, Time-Series Analysis, etc.
+  - 📧 **Contact**: [jmss1101@gmail.com]
 </p>
 
 <br clear="both"/>
@@ -27,13 +27,13 @@
 ---
 
 ## 🌿 EcoAI Lab (Affiliation)
-> **EcoAI Lab**은 인공지능을 활용하여 산업 및 환경 문제를 해결하는 선도적인 연구를 수행합니다.
+> **EcoAI Lab**은 인공지능을 활용하여 산업 및 환경 문제를 해결하는 연구를 수행합니다.
 
 - **Lab Homepage**: [https://sites.google.com/view/ecoai/introduction](https://sites.google.com/view/ecoai/introduction)
 - **Research Areas**:
   - <img src="https://img.shields.io/badge/AI-Anomaly_Detection-FF6B6B?style=flat-square"> **산업 데이터 이상치 탐지**: 전력 데이터 등 시계열 데이터의 이상 징후 포착
   - <img src="https://img.shields.io/badge/AI-Reinforcement_Learning-blueviolet?style=flat-square"> **강화학습(RL)**: 자율 학습 에이전트 및 최적화 알고리즘 연구
-  - <img src="https://img.shields.io/badge/AI-Adversarial_Attack-orange?style=flat-square"> **적대적 공격 및 방어**: MI-FGSM 등 모델 보안 및 견고성 연구
+  - <img src="https://img.shields.io/badge/AI-Adversarial_Attack-orange?style=flat-square"> **적대적 공격 및 방어**: 모델 보안 및 견고성 연구
 
 ---
 
