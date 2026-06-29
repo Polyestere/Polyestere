@@ -15,7 +15,7 @@
   
   <h3 align="left">🚀 About Me</h3>
   
-  - 🎓 **국립한밭대학교 컴퓨터공학과** 3학년 재학 중
+  - 🎓 **국립한밭대학교 컴퓨터공학과** 4학년 재학 중
   - 🔬 **EcoAI Lab** 학부 연구생 (Undergraduate Researcher)
   - 🧠 **Main Interest**: Anomaly Detection, Reinforcement Learning, Time-Series Analysis, etc.
   - 📧 **Contact**: [jmss1101@gmail.com]
