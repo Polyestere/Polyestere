@@ -22,18 +22,6 @@
 <br clear="both"/>
 </div>
 
----
-
-## 🌿 EcoAI Lab (Affiliation)
-> **EcoAI Lab**은 인공지능을 활용하여 산업 및 환경 문제를 해결하는 연구를 수행합니다.
-
-- **Lab Homepage**: [https://sites.google.com/view/ecoai/introduction](https://sites.google.com/view/ecoai/introduction)
-- **Research Areas**:
-  - <img src="https://img.shields.io/badge/AI-Anomaly_Detection-FF6B6B?style=flat-square"> **산업 데이터 이상치 탐지**: 전력 데이터 등 시계열 데이터의 이상 징후 포착
-  - <img src="https://img.shields.io/badge/AI-Reinforcement_Learning-blueviolet?style=flat-square"> **강화학습(RL)**: 자율 학습 에이전트 및 최적화 알고리즘 연구
-  - <img src="https://img.shields.io/badge/AI-Adversarial_Attack-orange?style=flat-square"> **적대적 공격 및 방어**: 모델 보안 및 견고성 연구
-
----
 
 ## 🔧 Languages & Tech Stack
 <div align="left">
